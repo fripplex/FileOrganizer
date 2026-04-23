@@ -43,6 +43,10 @@ Go to the **Custom** tab to add rules:
 | Size | `500` | Moves files over 500 MB |
 | Date | `30` | Moves files older than 30 days |
 
+## Note
+
+Before organizing, it is recommended to test on a small folder first. If the app stops responding mid-organize, your files may be partially moved. Use the Undo button immediately after organizing if anything looks wrong. Always keep a backup of important files before use. Undo is only available during the current session. Closing the app will clear the undo history.
+
 ## 🔒 Security
 
 - Passwords and PINs are hashed with SHA-256 before storing
